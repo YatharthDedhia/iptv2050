@@ -1,14 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="Cricket 🏏",RTV
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w2015195144.m3u8
-
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/338/logo/240x240/mobile_logo_401499001655891091.png",RTV HD
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/337/logo/240x240/mobile_logo_519481001656610377.png",BANGLA VISION HD
 http://tv.cloudcdn.me:80/live.ts?channelId=84&uid=3788&deviceMac=00:1A:79:6D:8A:C6
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/39/logo/240x240/mobile_logo_569553001668421527.png",DESH TV
 http://tv.cloudcdn.me:80/live.ts?channelId=93&uid=3788&deviceMac=00:1A:79:6D:8A:C6
-
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://images.toffeelive.com/images/program/9/logo/240x240/mobile_logo_363996001656610763.png",CHANNEL 9 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=10016&deviceMac=00:1A:79:20:6F:F3
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/dBbTPtQ/20240826-230616.png",SATV HD
@@ -63,8 +61,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=44154&uid=16068&deviceMac=00:1A:79:ED
 http://tv.cloudcdn.me:80/live.ts?channelId=115&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720703141689.png",Channel 24
 http://tv.cloudcdn.me:80/live.ts?channelId=87&uid=16068&deviceMac=00:1A:79:ED:10:29
-
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720359542393.png",Star Jalsha
 http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927885394.png",Jalsha movie
@@ -343,7 +339,6 @@ https://freeott.site/discovery/Discovery_Kids.m3u8
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 ,EURO SPORTS
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
-
 #EXTINF:-1 ,Zee bangla HD
 http://tv.cloudcdn.me:80/live.ts?channelId=120&uid=6140&deviceMac=00:1A:79:C1:9A:8C
 #EXTINF:-1 ,ENTER 10
@@ -369,7 +364,6 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 group-title="Sony's BDCast" tvg-logo="https://i.postimg.cc/Jh8rc7Dn/Deepto-TV-HD.png",Deepto TV HD
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8?sessId=2714235
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-
 #EXTINF:-1 ,HBO HD
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
 #EXTINF:-1 ,HBO
